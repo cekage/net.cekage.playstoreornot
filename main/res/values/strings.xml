@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >PlayStore Or Not
+    </string>
+    <string name="action_settings" >Settings
+    </string>
+
+    <string name="this_app">Is this app was installed via the PlayStore?</string>
+    <string name="dropbox_app">and DropBox ?</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+</resources>
