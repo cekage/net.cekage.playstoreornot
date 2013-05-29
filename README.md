@@ -2,9 +2,8 @@
 Google's PlayStore new limitation workaround
 ============================================
 
-  I'm disappointed when pro apps like FaceBook or DropBox
-displays a self-update instead of letting Google PlayStore's
-safe mechanism doing the update.
+  I'm disappointed when apps displays a self-update instead of letting 
+Google PlayStore's safe mechanism doing the update.
  
   It seems I'm not the only one who find irresponsible the incitation of
 removing app installation default security.
